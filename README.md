@@ -1,14 +1,14 @@
 This is an example README.md
 
-David Evans / dse4@pitt.edu
+Tom Graziani / tag30@pitt.edu
 ==================
 
 Three Facts About Me
 ---
 
-*   I was born in Oakland, just a few blocks from the Cathedral
-*   I have two dogs.
-*   I can't stand when people whistle in public.
+*   I worked at a bowling alley for 6 years. 
+*   I am a good bowler. 
+*   I enjoy reading.
 
 ---
 
